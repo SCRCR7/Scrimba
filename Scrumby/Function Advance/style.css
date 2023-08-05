@@ -1,0 +1,48 @@
+body{
+    background-color: aliceblue;
+    text-align: center;
+width: 100%;
+color: white;
+}
+.div{
+width: 70%;;
+max-width: 500px;
+background-color: pink;
+margin: auto;
+height: 50vh;
+padding: 10px;
+}
+h1{
+    color: red;
+    margin-top: 10px;
+    background-color: aqua;
+}
+h2{
+    color: purple;
+    font-size: 30px;
+    background-color: black;
+    width: 30%;
+    margin: auto;
+    
+
+}
+p{
+    color: purple;
+    font-size: 30px;
+    background-color: black;
+    width: 30%;
+    margin: auto;
+
+}
+button{
+    padding: 10px;
+    margin-top: 10px;
+    color: white;
+
+
+}
+#increment-btn{
+
+    background-color: darkred;
+
+}
