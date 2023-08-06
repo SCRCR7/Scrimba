@@ -17,7 +17,7 @@ body{
     margin-top: 2em;
 }
 
-.container >h1{
+.container >h1 {
     color: blue;
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
@@ -33,15 +33,17 @@ h2{
     text-align: center;
 }
 button{
-    width: 60%;
-    margin: 10px 40px;
-    padding: 8px;
-    
-
+    border: 2px saddlebrown solid;
+    width: 50%;
+    display: flex;
+    margin: auto;
+    padding:5px;
+    margin-top: 10px;
 }
 #increment{
     background-color: darkgreen;
-    
+    clear: both;
+
 }
 #save{
 background: darkblue
